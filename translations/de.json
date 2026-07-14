@@ -1,1 +1,12 @@
-{}
+{
+  "welcome_message": "Willkommen zurück!",
+  "greeting": "Hallo, {{name}}!",
+  "navigation": {
+    "home": "Startseite",
+    "settings": "Einstellungen"
+  },
+  "actions": {
+    "save": "Speichern",
+    "cancel": "Abbrechen"
+  }
+}
