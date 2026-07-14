@@ -8,5 +8,6 @@
   "actions": {
     "save": "Enregistrer",
     "cancel": "Annuler"
-  }
+  },
+  "api": "API"
 }
