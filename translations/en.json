@@ -8,5 +8,6 @@
   "actions": {
     "save": "Save",
     "cancel": "Cancel"
-  }
+  },
+  "api": "API"
 }
