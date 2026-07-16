@@ -8,5 +8,7 @@
   "actions": {
     "save": "Enregistrer",
     "cancel": "Annuler"
-  }
+  },
+  "car": "Voiture",
+  "user": "Utilisateur"
 }
