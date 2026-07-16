@@ -8,5 +8,8 @@
   "actions": {
     "save": "Speichern",
     "cancel": "Abbrechen"
-  }
+  },
+  "car": "Auto",
+  "user": "Benutzer",
+  "orange": "Orange"
 }
