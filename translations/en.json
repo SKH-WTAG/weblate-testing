@@ -8,5 +8,7 @@
   "actions": {
     "save": "Save",
     "cancel": "Cancel"
-  }
+  },
+  "car": "Car",
+  "user": "User"
 }

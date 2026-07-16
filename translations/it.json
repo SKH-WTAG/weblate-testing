@@ -1,1 +1,14 @@
-{}
+{
+  "welcome_message": "Bentornati!",
+  "greeting": "Ciao, {{name}}!",
+  "navigation": {
+    "home": "Home",
+    "settings": "Impostazioni"
+  },
+  "actions": {
+    "save": "Salva",
+    "cancel": "Annulla"
+  },
+  "car": "Auto",
+  "user": "Utente"
+}

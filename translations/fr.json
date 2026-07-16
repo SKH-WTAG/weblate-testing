@@ -1,1 +1,14 @@
-{}
+{
+  "welcome_message": "Bon retour parmi nous !",
+  "greeting": "Bonjour, {{name}} !",
+  "navigation": {
+    "home": "Page d'accueil",
+    "settings": "Paramètres"
+  },
+  "actions": {
+    "save": "Enregistrer",
+    "cancel": "Annuler"
+  },
+  "car": "Voiture",
+  "user": "Utilisateur"
+}
